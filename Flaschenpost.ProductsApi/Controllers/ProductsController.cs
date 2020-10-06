@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using Flacshenpost.ProductsApi.Dtos;
+using Flaschenpost.ProductsApi.Dtos;
 using Flaschenpost.Core.Contracts;
 using Flaschenpost.Core.Entities;
 using Flaschenpost.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Flaschenpost.Services.Common;
-namespace Flacshenpost.ProductsApi.Controllers
+namespace Flaschenpost.ProductsApi.Controllers
 {
     [ApiController]
     [Route("api/v1/beers")]

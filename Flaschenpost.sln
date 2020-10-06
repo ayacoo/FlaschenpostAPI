@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flaschenpost.Clients", "Fla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flasschenpost.Tests", "Flasschenpost.Tests\Flasschenpost.Tests.csproj", "{4AB515DE-D248-4A26-9855-A00D189806CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flacshenpost.ProductsApi", "Flacshenpost.ProductsApi\Flacshenpost.ProductsApi.csproj", "{81463FEE-10AF-4949-A2AC-3CA2161E3D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flaschenpost.ProductsApi", "Flaschenpost.ProductsApi\Flaschenpost.ProductsApi.csproj", "{81463FEE-10AF-4949-A2AC-3CA2161E3D9F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flaschenpost.Shared", "Flaschenpost.Shared\Flaschenpost.Shared.csproj", "{72FD5069-F69B-4CF3-8B5D-F56B88217D49}"
 EndProject

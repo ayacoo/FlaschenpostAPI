@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Flacshenpost.ProductsApi": {
+    "Flaschenpost.ProductsApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "beers",

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Flacshenpost.ProductsApi.Dtos
+namespace Flaschenpost.ProductsApi.Dtos
 {
     //api/products/unit/Price/MinMax
     //api/products/mostBottels
